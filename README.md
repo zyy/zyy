@@ -4,11 +4,10 @@
 ### Hi there, I'm yycoder👋
 
 I'm a Software Engineer working in Zhuhai, China.
-- ⚙️ I use daily: Java, Golang, Scala, Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ
-- 🌱 Learning all about Web3 and blockchain.
+- ⚙️ I use daily: Java, Golang, Scala, Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ, Dubbo, CAT
+- 🌱 Learning all about Web3 and Blockchain.
 - 💬 Ping me about Development.
 - 📫 How to reach me: 692895299@qq.com
-
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zyy)]()
 
