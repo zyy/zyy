@@ -11,7 +11,7 @@ I'm a Software Engineer working in Zhuhai, China.
 - 💬 Ping me about Development.
 - 📫 How to reach me: 692895299@qq.com
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yycoder's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yycoder's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyy&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zyy&theme=light&hide_border=false)
