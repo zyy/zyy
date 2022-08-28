@@ -1,22 +1,15 @@
-### Hi there, I'm yycoder👋
-
 | ![Followers](https://img.shields.io/github/followers/zyy) | ![Stars](https://img.shields.io/github/stars/zyy?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --|
 
-<!--
-**zyy/zyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm yycoder👋
 
-Here are some ideas to get you started:
+I'm a Software Engineer working in Zhuhai, China.
+⚙️ I use daily: Java, Golang, Scala, Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ
+🌱 Learning all about Web3 and blockchain.
+💬 Ping me about Development.
+📫 How to reach me: 692895299@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zyy)]()
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyy&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
