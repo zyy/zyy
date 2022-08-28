@@ -1,7 +1,10 @@
+### Hi there, I'm yycoder👋
+
 | ![Followers](https://img.shields.io/github/followers/zyy) | ![Stars](https://img.shields.io/github/stars/zyy?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --|
 
-### Hi there, I'm yycoder👋
+
+![](https://github.com/zyy/zyy/blob/main/header_1.png)
 
 I'm a Software Engineer working in Zhuhai, China.
 - ⚙️ I use daily: Java, Golang, Scala, Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ, Dubbo, CAT
