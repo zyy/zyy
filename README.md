@@ -14,8 +14,4 @@ I'm a Software Engineer working in Zhuhai, China.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yycoder's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![](https://github-readme-stats.vercel.app/api?username=zyy)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zyy&theme=light&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyy&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
