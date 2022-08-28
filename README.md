@@ -1,6 +1,7 @@
 ### Hi there, I'm yycoder👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzyy&style=flat-square)](https://github.com/zyy)
+| ![Followers](https://img.shields.io/github/followers/zyy) | ![Stars](https://img.shields.io/github/stars/zyy?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --|
 
 <!--
 **zyy/zyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 -->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zyy)]()
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyy&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
