@@ -11,7 +11,7 @@ I'm a Software Engineer working in Zhuhai, China.
 - 💬 Ping me about Development.
 - 📫 How to reach me: 692895299@qq.com
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zyy)]()  
+![](https://github-readme-stats.vercel.app/api?username=zyy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zyy&theme=light&hide_border=false)
 
