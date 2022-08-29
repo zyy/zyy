@@ -2,7 +2,7 @@
 
 ### Hi there, I'm yycoder👋
 
-| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zyy.zyy) | ![Followers](https://img.shields.io/github/followers/zyy) | ![Stars](https://img.shields.io/github/stars/zyy?label=Stars&logo=Profile%20stars&logoColor=g) |
+| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zyy.zyy) | ![Followers](https://img.shields.io/github/followers/zyy) | ![Stars](https://img.shields.io/github/stars/zyy?label=stars&logo=Profile%20stars&logoColor=g) |
 --| --| --|
 
 I'm a Software Engineer working in Zhuhai, China.
